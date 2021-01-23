@@ -4,7 +4,7 @@
 
 **Disclaimer**
 
-I hope you guys have been installed the node.js in your local system. The minimum version is on Node 8 or above
+I hope you guys have been installed the node.js and npm in your local system. The minimum version is on Node 8 or above
 
 Clone the project via https or ssh or github cli
 
