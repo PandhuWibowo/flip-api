@@ -67,3 +67,8 @@ There is alternatif to import the database, you can use migration from **Sequeli
 ```bash
 ./node_modules/.bin/sequelize-cli db:migrate
 ```
+
+### Tech Stack
+1. Node.js
+2. Typescript and Javascript
+3. Mysql
