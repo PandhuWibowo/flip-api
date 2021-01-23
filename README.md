@@ -51,3 +51,15 @@ Run this script to start API test
 ```bash
 npm run start-test
 ```
+
+### Alternatif Way to Import the Database
+
+There is alternatif to import the database, you can use migration from **Sequelize**
+
+1. In the project, you should ```npm i``` or ```npm install```
+2. Just create the database (of course Mysql) name is ```flip_technical_test```
+3. Please run this script to migrate
+
+```bash
+./node_modules/.bin/sequelize-cli db:migrate
+```
