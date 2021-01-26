@@ -1,4 +1,4 @@
-# Flip Test
+# Flip API
 
 ## Preparation - How to use
 
